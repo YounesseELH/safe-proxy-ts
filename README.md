@@ -1,41 +1,9 @@
-<!-- # SafeProxyTs
-
-A safe proxy utility for TypeScript, providing safe access to nested object properties.
-
-## Installation
-
-You can install `SafeProxyTs` via npm:
-
-```bash
-npm install SafeProxyTs
-
-
-
-
-### Explanation
-
-- **Installation**: Provides instructions on how to install the package using npm.
-- **Usage**: Includes an example demonstrating how to use `SafeProxyTs` to safely access nested object properties.
-- **How it Works**: Explains briefly how the `SafeProxyTs` function works and its benefits.
-- **Notes**: Additional notes on usage scenarios and advantages of using `SafeProxyTs`.
-- **API**: Describes the `SafeProxyTs` function and its parameters.
-- **License**: States the licensing information for the package.
-
-### Additional Considerations
-
-- **Documentation**: Ensure all examples and explanations are clear and concise.
-- **Testing**: Include information on testing your package if applicable.
-- **Contributing**: If you welcome contributions, provide guidelines on how others can contribute to your project.
-- **Acknowledgments**: Optionally, you can acknowledge contributors or libraries that inspired your work.
-
-Customize this template according to your package's specific features and use cases. Once your `README.md` is ready, include it in the root directory of your project before publishing to npm. -->
 
 ---
 
 [![npm](https://img.shields.io/npm/v/safe-proxy-ts)](https://www.npmjs.com/package/safe-proxy-ts)
-[![Test](https://github.com/yourusername/safe-proxy-ts/actions/workflows/test.yml/badge.svg)](https://github.com/yourusername/safe-proxy-ts/actions/workflows/test.yml)
-[![GitHub License](https://img.shields.io/github/license/yourusername/safe-proxy-ts)](https://github.com/yourusername/safe-proxy-ts/blob/main/LICENSE)
-[![Your Twitter](https://img.shields.io/twitter/follow/yourusername?label=%40yourusername&style=social)](https://twitter.com/yourusername)
+[![Test](https://github.com/AssemblyAI/assemblyai-node-sdk/actions/workflows/test.yml/badge.svg)](https://github.com/YounesseELH/safe-proxy-ts/tree/main/tests)
+[![GitHub License](https://img.shields.io/github/license/AssemblyAI/assemblyai-node-sdk)](https://github.com/AssemblyAI/assemblyai-node-sdk/blob/main/LICENSE)
 
 # Safe Proxy for TypeScript
 
@@ -43,7 +11,7 @@ The `safe-proxy-ts` package provides a safe way to access deeply nested properti
 
 ## Documentation
 
-Visit the [project documentation](https://github.com/yourusername/safe-proxy-ts) for more details about the API and usage examples.
+Visit the [project documentation](https://github.com/YounesseELH/safe-proxy-ts) for more details about the API and usage examples.
 
 ## Quickstart
 
